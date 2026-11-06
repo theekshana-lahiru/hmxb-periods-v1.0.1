@@ -9,9 +9,9 @@ authors:
     given-names: Theekshana
     affiliation: "Arthur C Clarke Institute for Modern Technologies, Sri Lanka"
 # After the first release on Zenodo, add the version DOI here, for example:
-# doi: 10.5281/zenodo.NNNNNNN
+# doi: https://doi.org/10.5281/zenodo.24012183
 # and the repository URL, for example:
-# repository-code: "https://github.com/<user>/hmxb-periods"
+# repository-code: "https://github.com/theekshana-lahiru/hmxb-periods"
 keywords:
   - X-ray binaries
   - periodogram
