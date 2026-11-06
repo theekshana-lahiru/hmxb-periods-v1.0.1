@@ -1,4 +1,4 @@
-# hmxb-periods v1.0.12
+# hmxb-periods v1.0.1
 
 Code, results and input-file manifests for
 
