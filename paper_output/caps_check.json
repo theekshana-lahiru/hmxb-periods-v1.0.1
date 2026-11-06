@@ -1,0 +1,2224 @@
+{
+ "1E 1740.7-2942": {
+  "qualified_default": 0,
+  "qualified_enlarged": 0,
+  "adopted_unchanged": true,
+  "candidates_default": 5,
+  "candidates_enlarged": 6,
+  "candidates": [
+   {
+    "P": 0.9969585609736895,
+    "S": 49.74906286634743,
+    "fap": 4.6904560387725263e-11,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9788380752980733,
+    "S": 46.83031293806214,
+    "fap": 3.5468787966618424e-10,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9781500914808282,
+    "S": 45.45411674562724,
+    "fap": 9.207096219549994e-10,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 1.0002282616502114,
+    "S": 27.9144105137138,
+    "fap": 0.00017541320372429882,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.994764133765592,
+    "S": 27.80990233248969,
+    "fap": 0.00018859037154082258,
+    "search": "orbit",
+    "related": [
+     1.0002282616502114,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.977131573541366,
+    "S": 22.565220514531763,
+    "fap": 0.0071254968865785175,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   }
+  ]
+ },
+ "AX J1631.9-4752": {
+  "qualified_default": 1,
+  "qualified_enlarged": 2,
+  "adopted_unchanged": true,
+  "candidates_default": 3,
+  "candidates_enlarged": 5,
+  "candidates": [
+   {
+    "P": 8.990806192661111,
+    "S": 801.3996392039614,
+    "fap": 1.9564765302780743e-238,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 9.217887191020262,
+    "S": 26.524944931095057,
+    "fap": 3.564451925128187e-05,
+    "search": "daily",
+    "related": [
+     8.990806192661111,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 8.775088886340177,
+    "S": 23.540366186044213,
+    "fap": 0.0002820895395344763,
+    "search": "daily",
+    "related": [
+     8.990806192661111,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 1.1216908510716737,
+    "S": 26.837230040615374,
+    "fap": 0.00037010586010136255,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 2.9974064740121613,
+    "S": 18.954826444537993,
+    "fap": 0.08364069542861734,
+    "search": "daily",
+    "related": [
+     8.990806192661111,
+     "P/3"
+    ],
+    "instrumental": "",
+    "both": true
+   }
+  ]
+ },
+ "BP Cru": {
+  "qualified_default": 1,
+  "qualified_enlarged": 3,
+  "adopted_unchanged": true,
+  "candidates_default": 3,
+  "candidates_enlarged": 10,
+  "candidates": [
+   {
+    "P": 41.47200693729338,
+    "S": 1672.2989810468289,
+    "fap": 0.0,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 13.824030061664955,
+    "S": 1181.5375338550948,
+    "fap": 0.0,
+    "search": "daily",
+    "related": [
+     41.47200693729338,
+     "P/3"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 8.294618669215227,
+    "S": 525.1081687345529,
+    "fap": 2.9077132521257416e-155,
+    "search": "daily",
+    "related": [
+     41.47200693729338,
+     "P/5"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 5.924650783762571,
+    "S": 177.48857827110976,
+    "fap": 1.2807825022313331e-50,
+    "search": "daily",
+    "related": [
+     41.47200693729338,
+     "P/7"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 20.735582036569095,
+    "S": 2557.3566483514264,
+    "fap": 0.0,
+    "search": "daily",
+    "related": [
+     41.47200693729338,
+     "P/2"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 4.608356904195254,
+    "S": 24.920372005297537,
+    "fap": 0.001396866988665005,
+    "search": "daily",
+    "related": [
+     41.47200693729338,
+     "P/9"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 1.050688532353618,
+    "S": 32.034224191842945,
+    "fap": 1.0091912245712427e-05,
+    "search": "orbit",
+    "related": [
+     41.47200693729338,
+     "1-day alias of P/2"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 20.596992159636567,
+    "S": 39.61372597624754,
+    "fap": 4.092056046157945e-09,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 20.88427947598254,
+    "S": 56.932284868487905,
+    "fap": 2.5034323844452154e-14,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 3.7704753078082214,
+    "S": 9.067909812578275,
+    "fap": 1.0,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": false
+   }
+  ]
+ },
+ "GP Vel": {
+  "qualified_default": 1,
+  "qualified_enlarged": 2,
+  "adopted_unchanged": true,
+  "candidates_default": 2,
+  "candidates_enlarged": 6,
+  "candidates": [
+   {
+    "P": 8.96416093305393,
+    "S": 1296.754846574411,
+    "fap": 0.0,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 2.9880948447260547,
+    "S": 217.36961137643596,
+    "fap": 1.630431095049e-61,
+    "search": "orbit",
+    "related": [
+     8.96416093305393,
+     "P/3"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 1.2806111724681086,
+    "S": 100.76138659950955,
+    "fap": 2.06478981096892e-26,
+    "search": "orbit",
+    "related": [
+     8.96416093305393,
+     "P/7"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 4.4821296428417785,
+    "S": 658.7942505361935,
+    "fap": 2.1391696939687156e-194,
+    "search": "orbit",
+    "related": [
+     8.96416093305393,
+     "P/2"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.8952549734942659,
+    "S": 25.38153040675474,
+    "fap": 0.0010145027920538006,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 9.042398803277592,
+    "S": 19.63669556261228,
+    "fap": 0.00421305565993575,
+    "search": "daily",
+    "related": [
+     8.96416093305393,
+     "side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   }
+  ]
+ },
+ "GRO J1008-57": {
+  "qualified_default": 3,
+  "qualified_enlarged": 5,
+  "adopted_unchanged": true,
+  "candidates_default": 5,
+  "candidates_enlarged": 16,
+  "candidates": [
+   {
+    "P": 49.79677056359225,
+    "S": 45.38115249406175,
+    "fap": 7.512304698124288e-11,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.9970418137654856,
+    "S": 43.645187453657755,
+    "fap": 3.226468859368487e-09,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 31.136648395338867,
+    "S": 39.70521563588508,
+    "fap": 3.840612061879414e-09,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 83.01437605567804,
+    "S": 26.78572483893509,
+    "fap": 2.9754197520497185e-05,
+    "search": "daily",
+    "related": [
+     49.79677056359225,
+     "f1-f2 with f2 = 1/31.137 d"
+    ],
+    "instrumental": "",
+    "both": false
+   },
+   {
+    "P": 27.677171999710648,
+    "S": 35.71564233972207,
+    "fap": 6.100727981671044e-08,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 248.93322850868879,
+    "S": 11.791512593422187,
+    "fap": 0.6213842374802424,
+    "search": "daily",
+    "related": [
+     49.79677056359225,
+     "5*P"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 35.57077528283578,
+    "S": 28.036227448449633,
+    "fap": 1.25058493007637e-05,
+    "search": "daily",
+    "related": [
+     31.136648395338867,
+     "2f1-f2 with f2 = 1/27.677 d"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 1.0012446899252248,
+    "S": 29.87046891487131,
+    "fap": 4.5219017441078524e-05,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9981231947153063,
+    "S": 29.37426216677662,
+    "fap": 6.378083577298476e-05,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9759378968182957,
+    "S": 25.315033534054596,
+    "fap": 0.0010627295768729538,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": false
+   },
+   {
+    "P": 0.9894776247367862,
+    "S": 25.171739566059586,
+    "fap": 0.001173638762089561,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9689333078358738,
+    "S": 24.18958029281105,
+    "fap": 0.0023171022041669283,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 20.766203808403823,
+    "S": 20.198518824937207,
+    "fap": 0.002856803653079259,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.9998156151678254,
+    "S": 22.749117325497455,
+    "fap": 0.006276318099935549,
+    "search": "orbit",
+    "related": [
+     0.9970418137654856,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": false
+   },
+   {
+    "P": 0.9854308572531453,
+    "S": 22.57346513308912,
+    "fap": 0.007086058144672504,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9707971578732062,
+    "S": 22.355374270669092,
+    "fap": 0.008237680226139944,
+    "search": "orbit",
+    "related": [
+     0.9759378968182957,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   }
+  ]
+ },
+ "GRO J1750-27": {
+  "qualified_default": 0,
+  "qualified_enlarged": 0,
+  "adopted_unchanged": true,
+  "candidates_default": 5,
+  "candidates_enlarged": 30,
+  "candidates": [
+   {
+    "P": 0.99761850733843,
+    "S": 79.80978728282743,
+    "fap": 4.188276346892817e-20,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.998009470788559,
+    "S": 67.1858992193088,
+    "fap": 2.6436520756850145e-16,
+    "search": "orbit",
+    "related": [
+     0.99761850733843,
+     "near"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9984119771762103,
+    "S": 63.537811962833885,
+    "fap": 3.3142707895859446e-15,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9964192293715528,
+    "S": 60.96982346888229,
+    "fap": 1.96530316873379e-14,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 1.0006436468548017,
+    "S": 56.92751694520227,
+    "fap": 3.238061326234092e-13,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9944231477592154,
+    "S": 56.813780205954636,
+    "fap": 3.503670365067868e-13,
+    "search": "orbit",
+    "related": [
+     0.9984119771762103,
+     "f1-2f2 with f2 = 1/0.99642 d"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9996339802855867,
+    "S": 52.810864628985385,
+    "fap": 5.6172130815748195e-12,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9952268765930483,
+    "S": 51.9097087406168,
+    "fap": 1.0490491875136374e-11,
+    "search": "orbit",
+    "related": [
+     0.99761850733843,
+     "1-day alias of P/2"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 1.0000300470097228,
+    "S": 47.92920244089007,
+    "fap": 1.6559516257091082e-10,
+    "search": "orbit",
+    "related": [
+     1.0006436468548017,
+     "near"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 1.0010413327587633,
+    "S": 47.92193466058403,
+    "fap": 1.6643147637798446e-10,
+    "search": "orbit",
+    "related": [
+     0.9984119771762103,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9926207476010205,
+    "S": 46.65913036859669,
+    "fap": 3.993718372682756e-10,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9988089954659594,
+    "S": 45.25104513894376,
+    "fap": 1.0598717746621996e-09,
+    "search": "orbit",
+    "related": [
+     0.9984119771762103,
+     "near"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9960240002110343,
+    "S": 44.49298498384303,
+    "fap": 1.7924711389245693e-09,
+    "search": "orbit",
+    "related": [
+     0.9964192293715528,
+     "near"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 1.0022331532796027,
+    "S": 44.13875247250205,
+    "fap": 2.2913254714003275e-09,
+    "search": "orbit",
+    "related": [
+     0.9996339802855867,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9948448266909394,
+    "S": 42.40126083792045,
+    "fap": 7.64053696186313e-09,
+    "search": "orbit",
+    "related": [
+     0.99761850733843,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9938272981597045,
+    "S": 42.37866552103074,
+    "fap": 7.761144138154942e-09,
+    "search": "orbit",
+    "related": [
+     0.9964192293715528,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9956319994149305,
+    "S": 41.64964148452477,
+    "fap": 1.2864231609235228e-08,
+    "search": "orbit",
+    "related": [
+     0.9984119771762103,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9992256672677532,
+    "S": 39.23772077782421,
+    "fap": 6.846117022468252e-08,
+    "search": "orbit",
+    "related": [
+     0.9964192293715528,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 1.003445214609545,
+    "S": 38.717400413726175,
+    "fap": 9.819205492471379e-08,
+    "search": "orbit",
+    "related": [
+     1.0006436468548017,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9930378202010267,
+    "S": 37.47399866364462,
+    "fap": 2.3247568879531958e-07,
+    "search": "orbit",
+    "related": [
+     0.9984119771762103,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9968131490450529,
+    "S": 34.95565484411241,
+    "fap": 1.3319083250896336e-06,
+    "search": "orbit",
+    "related": [
+     0.9984119771762103,
+     "1-day alias of P/2"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 1.0058707337609603,
+    "S": 34.09205123731231,
+    "fap": 2.4235092767502556e-06,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 1.0030537254440433,
+    "S": 33.773916931575116,
+    "fap": 3.0214299183745337e-06,
+    "search": "orbit",
+    "related": [
+     0.99761850733843,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 1.004259608628464,
+    "S": 32.64915227751312,
+    "fap": 6.588698727881304e-06,
+    "search": "orbit",
+    "related": [
+     0.9984119771762103,
+     "2f1-f2 with f2 = 1/0.99262 d"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9934264369458826,
+    "S": 29.993160731872262,
+    "fap": 4.1526486392883654e-05,
+    "search": "orbit",
+    "related": [
+     0.9996339802855867,
+     "2f1-f2 with f2 = 1/1.0059 d"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 1.003851679396003,
+    "S": 28.74461197647722,
+    "fap": 9.866506468967159e-05,
+    "search": "orbit",
+    "related": [
+     0.9984119771762103,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.997212578897222,
+    "S": 28.386913711593227,
+    "fap": 0.00012642567571885934,
+    "search": "orbit",
+    "related": [
+     0.99761850733843,
+     "near"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9922290794300823,
+    "S": 27.186835617776367,
+    "fap": 0.00029044183092909274,
+    "search": "orbit",
+    "related": [
+     0.99761850733843,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9774912050383553,
+    "S": 25.38948532723948,
+    "fap": 0.0010091584653525811,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 1.0066880226952264,
+    "S": 24.64561392058701,
+    "fap": 0.0016894256857901398,
+    "search": "orbit",
+    "related": [
+     0.9996339802855867,
+     "2f1-f2 with f2 = 1/0.99262 d"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   }
+  ]
+ },
+ "H 1907+097": {
+  "qualified_default": 1,
+  "qualified_enlarged": 2,
+  "adopted_unchanged": true,
+  "candidates_default": 2,
+  "candidates_enlarged": 3,
+  "candidates": [
+   {
+    "P": 8.375296397725908,
+    "S": 466.3675197073194,
+    "fap": 1.3998404791609466e-137,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 2.7916217970722057,
+    "S": 27.67520775976407,
+    "fap": 0.00020703081112335165,
+    "search": "orbit",
+    "related": [
+     8.375296397725908,
+     "P/3"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 35.39162404400242,
+    "S": 18.68398903948732,
+    "fap": 0.008137244372752718,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   }
+  ]
+ },
+ "IGR J16418-4532": {
+  "qualified_default": 2,
+  "qualified_enlarged": 2,
+  "adopted_unchanged": true,
+  "candidates_default": 3,
+  "candidates_enlarged": 3,
+  "candidates": [
+   {
+    "P": 3.738785860305671,
+    "S": 194.71575497485983,
+    "fap": 1.0763033861468495e-54,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 1.246268219186069,
+    "S": 56.81557414059433,
+    "fap": 3.499657514139081e-13,
+    "search": "orbit",
+    "related": [
+     3.738785860305671,
+     "P/3"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 14.691471419381886,
+    "S": 35.8365487514612,
+    "fap": 5.60955524859295e-08,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   }
+  ]
+ },
+ "IGR J18027-2016": {
+  "qualified_default": 1,
+  "qualified_enlarged": 1,
+  "adopted_unchanged": true,
+  "candidates_default": 2,
+  "candidates_enlarged": 3,
+  "candidates": [
+   {
+    "P": 4.569797287967707,
+    "S": 473.43548567527876,
+    "fap": 1.3455289577399396e-138,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 1.5232471100590956,
+    "S": 34.15978425961839,
+    "fap": 2.3123578222869576e-06,
+    "search": "orbit",
+    "related": [
+     4.569797287967707,
+     "P/3"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 4.687016307378152,
+    "S": 29.697659646266796,
+    "fap": 5.096568049117252e-05,
+    "search": "orbit",
+    "related": [
+     4.569797287967707,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   }
+  ]
+ },
+ "IGR J19140+0951": {
+  "qualified_default": 1,
+  "qualified_enlarged": 1,
+  "adopted_unchanged": true,
+  "candidates_default": 2,
+  "candidates_enlarged": 2,
+  "candidates": [
+   {
+    "P": 13.551524672019093,
+    "S": 1299.8828765032786,
+    "fap": 0.0,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 4.517316127247679,
+    "S": 54.31421466224551,
+    "fap": 1.981552590541744e-12,
+    "search": "daily",
+    "related": [
+     13.551524672019093,
+     "P/3"
+    ],
+    "instrumental": "",
+    "both": true
+   }
+  ]
+ },
+ "OAO 1657-415": {
+  "qualified_default": 1,
+  "qualified_enlarged": 1,
+  "adopted_unchanged": true,
+  "candidates_default": 3,
+  "candidates_enlarged": 4,
+  "candidates": [
+   {
+    "P": 10.44691555227895,
+    "S": 1084.8755659591327,
+    "fap": 0.0,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 3.4822719496913974,
+    "S": 143.40696949113993,
+    "fap": 3.002051776709528e-39,
+    "search": "daily",
+    "related": [
+     10.44691555227895,
+     "P/3"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 5.181005687460505,
+    "S": 23.967094693510475,
+    "fap": 0.0002098946420836268,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": false
+   },
+   {
+    "P": 10.752350730102227,
+    "S": 21.609857668043297,
+    "fap": 0.0010750099914583343,
+    "search": "daily",
+    "related": [
+     10.44691555227895,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   }
+  ]
+ },
+ "QV Nor": {
+  "qualified_default": 1,
+  "qualified_enlarged": 2,
+  "adopted_unchanged": true,
+  "candidates_default": 2,
+  "candidates_enlarged": 11,
+  "candidates": [
+   {
+    "P": 3.7283313389032595,
+    "S": 1298.0313448408237,
+    "fap": 0.0,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 1.242774406976174,
+    "S": 456.85102919223164,
+    "fap": 1.3224174631497632e-133,
+    "search": "orbit",
+    "related": [
+     3.7283313389032595,
+     "P/3"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 3.6540395386913214,
+    "S": 47.98249356642957,
+    "fap": 1.5961072937636496e-10,
+    "search": "orbit",
+    "related": [
+     3.7283313389032595,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 1.864163132932812,
+    "S": 795.8012317991664,
+    "fap": 1.2223358645910369e-235,
+    "search": "orbit",
+    "related": [
+     3.7283313389032595,
+     "P/2"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 14.906223211270532,
+    "S": 38.66484028494047,
+    "fap": 7.898195004460004e-09,
+    "search": "daily",
+    "related": [
+     3.7283313389032595,
+     "4*P"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.414256408502888,
+    "S": 41.8756119714726,
+    "fap": 1.1000606246307623e-08,
+    "search": "orbit",
+    "related": [
+     3.7283313389032595,
+     "P/9"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 1.8833890077726674,
+    "S": 19.45580089020309,
+    "fap": 0.05985746853769679,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": false
+   },
+   {
+    "P": 3.6908820873961123,
+    "S": 35.754250761413886,
+    "fap": 7.658254495454134e-07,
+    "search": "orbit",
+    "related": [
+     3.7283313389032595,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 3.8061854873330225,
+    "S": 31.11050825598856,
+    "fap": 1.9143951708918138e-05,
+    "search": "orbit",
+    "related": [
+     3.7283313389032595,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.5326138478090036,
+    "S": 28.536779385329357,
+    "fap": 0.00011396738660231043,
+    "search": "orbit",
+    "related": [
+     3.7283313389032595,
+     "P/7"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 1.8547336058796478,
+    "S": 26.663916373453727,
+    "fap": 0.0004173521370217039,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   }
+  ]
+ },
+ "V1343 Aql": {
+  "qualified_default": 2,
+  "qualified_enlarged": 2,
+  "adopted_unchanged": true,
+  "candidates_default": 4,
+  "candidates_enlarged": 6,
+  "candidates": [
+   {
+    "P": 13.082822523164657,
+    "S": 65.10773859382539,
+    "fap": 8.654698007128676e-17,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 162.56487467894794,
+    "S": 77.87654231674506,
+    "fap": 1.2401065148925744e-20,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 6.288068866193549,
+    "S": 38.52850255736846,
+    "fap": 8.677591971413153e-09,
+    "search": "daily",
+    "related": [
+     13.082822523164657,
+     "2f1+f2 with f2 = 1/162.56 d"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 14.230359526833112,
+    "S": 24.794953093001208,
+    "fap": 0.00011819086314567916,
+    "search": "daily",
+    "related": [
+     13.082822523164657,
+     "f1-f2 with f2 = 1/162.56 d"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 12.10589492290038,
+    "S": 20.48706533111845,
+    "fap": 0.0023383250851042965,
+    "search": "daily",
+    "related": [
+     13.082822523164657,
+     "f1+f2 with f2 = 1/162.56 d"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 4.3603126682159905,
+    "S": 20.70912440264126,
+    "fap": 0.025559919170591625,
+    "search": "daily",
+    "related": [
+     13.082822523164657,
+     "P/3"
+    ],
+    "instrumental": "",
+    "both": true
+   }
+  ]
+ },
+ "V1521 Cyg": {
+  "qualified_default": 1,
+  "qualified_enlarged": 11,
+  "adopted_unchanged": true,
+  "candidates_default": 5,
+  "candidates_enlarged": 30,
+  "candidates": [
+   {
+    "P": 0.19969375178231802,
+    "S": 9832.742916496984,
+    "fap": 0.0,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19974371849982497,
+    "S": 134.28789896964875,
+    "fap": 1.6693760516938124e-36,
+    "search": "orbit",
+    "related": [
+     0.19969375178231802,
+     "side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19965588981176627,
+    "S": 133.7189712340257,
+    "fap": 2.4763868704120476e-36,
+    "search": "orbit",
+    "related": [
+     0.19969375178231802,
+     "side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19962191570194204,
+    "S": 99.05629392912826,
+    "fap": 6.734790514517782e-26,
+    "search": "orbit",
+    "related": [
+     0.19969375178231802,
+     "side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19958046339454072,
+    "S": 77.85744590892033,
+    "fap": 1.6211127412063186e-19,
+    "search": "orbit",
+    "related": [
+     0.19969375178231802,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19980036396568338,
+    "S": 77.71314464652875,
+    "fap": 1.7916460958933794e-19,
+    "search": "orbit",
+    "related": [
+     0.19969375178231802,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.1997054684281631,
+    "S": 175.92358611028618,
+    "fap": 4.8861124709200554e-49,
+    "search": "orbit",
+    "related": [
+     0.19969375178231802,
+     "near"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19968071656683425,
+    "S": 117.31783091874166,
+    "fap": 2.143155537746747e-31,
+    "search": "orbit",
+    "related": [
+     0.19969375178231802,
+     "near"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19954269206154615,
+    "S": 43.282970362856965,
+    "fap": 4.147319005954274e-09,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19945854330529958,
+    "S": 48.380495955010154,
+    "fap": 1.2113212497215915e-10,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19928249231233783,
+    "S": 47.48367609131074,
+    "fap": 2.2554282488758913e-10,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19985308354308307,
+    "S": 44.68053765588808,
+    "fap": 1.5741922369643023e-09,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19989332497742818,
+    "S": 39.14839817728753,
+    "fap": 7.284465221065304e-08,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19977128248809864,
+    "S": 38.83677389938168,
+    "fap": 9.04078050357922e-08,
+    "search": "orbit",
+    "related": [
+     0.19969375178231802,
+     "side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.1999307706885669,
+    "S": 37.252081268376045,
+    "fap": 2.711726604455136e-07,
+    "search": "orbit",
+    "related": [
+     0.19969375178231802,
+     "2f1-f2 with f2 = 1/0.19946 d"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.20056507385724345,
+    "S": 35.61542542224863,
+    "fap": 8.431954997826868e-07,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": false
+   },
+   {
+    "P": 0.1992263749053827,
+    "S": 19.13618743834618,
+    "fap": 0.07414020221245012,
+    "search": "orbit",
+    "related": [
+     0.19969375178231802,
+     "f1-2f2 with f2 = 1/0.19946 d"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19949567821109837,
+    "S": 31.585335232548083,
+    "fap": 1.3775377344989564e-05,
+    "search": "orbit",
+    "related": [
+     0.19928249231233783,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19995412605366078,
+    "S": 28.409660331860177,
+    "fap": 0.00012446661214009387,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.2000381212967035,
+    "S": 28.382681950883725,
+    "fap": 0.00012681588603381965,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19882225337661627,
+    "S": 27.673029878521735,
+    "fap": 0.000207387569880477,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19904436240446982,
+    "S": 27.590146778233745,
+    "fap": 0.0002196495707671967,
+    "search": "orbit",
+    "related": [
+     0.19882225337661627,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19956874840059538,
+    "S": 13.953676105880524,
+    "fap": 0.9390410037077761,
+    "search": "orbit",
+    "related": [
+     0.19969375178231802,
+     "side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.20009661538139628,
+    "S": 8.537445713793947,
+    "fap": 1.0,
+    "search": "orbit",
+    "related": [
+     0.19969375178231802,
+     "f1-2f2 with f2 = 1/0.19989 d"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19947615251514988,
+    "S": 24.49071666642728,
+    "fap": 0.0018810083549162444,
+    "search": "orbit",
+    "related": [
+     0.19969375178231802,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19870402143849092,
+    "S": 24.62410215892415,
+    "fap": 0.0017150381440070009,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.19960144697948953,
+    "S": 24.476883998902235,
+    "fap": 0.0018991131234817689,
+    "search": "orbit",
+    "related": [
+     0.19969375178231802,
+     "side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.20015548832721117,
+    "S": 22.983868760893095,
+    "fap": 0.005336353327049795,
+    "search": "orbit",
+    "related": [
+     0.2000381212967035,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 1.0001675057514974,
+    "S": 22.610936975694717,
+    "fap": 0.00690503455969214,
+    "search": "orbit",
+    "related": [
+     0.2000381212967035,
+     "5*P"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.1989537609830589,
+    "S": 16.082943439554544,
+    "fap": 0.47240813751230387,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   }
+  ]
+ },
+ "V2246 Cyg": {
+  "qualified_default": 1,
+  "qualified_enlarged": 1,
+  "adopted_unchanged": true,
+  "candidates_default": 4,
+  "candidates_enlarged": 8,
+  "candidates": [
+   {
+    "P": 45.98880129816795,
+    "S": 271.76054121704976,
+    "fap": 5.35533679784759e-79,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 15.316908750319019,
+    "S": 90.28073492622524,
+    "fap": 2.2890331894089923e-24,
+    "search": "daily",
+    "related": [
+     45.98880129816795,
+     "P/3"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 9.188832182527772,
+    "S": 26.856077087124778,
+    "fap": 2.8338079358261497e-05,
+    "search": "daily",
+    "related": [
+     45.98880129816795,
+     "P/5"
+    ],
+    "instrumental": "",
+    "both": false
+   },
+   {
+    "P": 47.25401399752987,
+    "S": 25.620998843338587,
+    "fap": 6.67048913899705e-05,
+    "search": "daily",
+    "related": [
+     45.98880129816795,
+     "near"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.9989414282750083,
+    "S": 28.747389363549722,
+    "fap": 9.848995541453739e-05,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 44.55846243930214,
+    "S": 22.002956639139704,
+    "fap": 0.0008187166080311338,
+    "search": "daily",
+    "related": [
+     45.98880129816795,
+     "side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.9973679471648652,
+    "S": 3.918567807031552,
+    "fap": 1.0,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": false
+   },
+   {
+    "P": 1.0008635883855337,
+    "S": 22.747498516282967,
+    "fap": 0.006283367668704993,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   }
+  ]
+ },
+ "V779 Cen": {
+  "qualified_default": 1,
+  "qualified_enlarged": 5,
+  "adopted_unchanged": true,
+  "candidates_default": 3,
+  "candidates_enlarged": 22,
+  "candidates": [
+   {
+    "P": 2.086967438597711,
+    "S": 3133.8228850517303,
+    "fap": 0.0,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.6956534478861204,
+    "S": 602.0430350011338,
+    "fap": 2.5955285508731763e-177,
+    "search": "orbit",
+    "related": [
+     2.086967438597711,
+     "P/3"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.2981382816577892,
+    "S": 158.72025546585235,
+    "fap": 7.37361081959805e-44,
+    "search": "orbit",
+    "related": [
+     2.086967438597711,
+     "P/7"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.41739353029983745,
+    "S": 85.45118376520514,
+    "fap": 8.392059378846799e-22,
+    "search": "orbit",
+    "related": [
+     2.086967438597711,
+     "P/5"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 1.0434834281401117,
+    "S": 1692.677153626477,
+    "fap": 0.0,
+    "search": "orbit",
+    "related": [
+     2.086967438597711,
+     "P/2"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.18972413011535644,
+    "S": 59.064460943751484,
+    "fap": 7.363149266357725e-14,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 1.0429924299579034,
+    "S": 45.71825912792792,
+    "fap": 7.667798280210628e-10,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 2.0781769727174697,
+    "S": 42.55114702960774,
+    "fap": 6.887576238642212e-09,
+    "search": "orbit",
+    "related": [
+     2.086967438597711,
+     "side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 2.0757218656242866,
+    "S": 41.4932906218471,
+    "fap": 1.4338803966665868e-08,
+    "search": "orbit",
+    "related": [
+     2.086967438597711,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": false
+   },
+   {
+    "P": 2.089207995876391,
+    "S": 40.722861048101485,
+    "fap": 2.445881073095276e-08,
+    "search": "orbit",
+    "related": [
+     2.086967438597711,
+     "near"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 2.0914264571040246,
+    "S": 40.634850355422984,
+    "fap": 2.5997356787180165e-08,
+    "search": "orbit",
+    "related": [
+     2.086967438597711,
+     "side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 2.0847792413821638,
+    "S": 32.25438392752752,
+    "fap": 8.663613938054786e-06,
+    "search": "orbit",
+    "related": [
+     2.086967438597711,
+     "near"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 2.0825378567614963,
+    "S": 12.449085582057673,
+    "fap": 0.9996431951286189,
+    "search": "orbit",
+    "related": [
+     2.086967438597711,
+     "side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.6760605473263044,
+    "S": 35.77154202695008,
+    "fap": 7.56712173771702e-07,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 2.1016242199719217,
+    "S": 33.72583626169268,
+    "fap": 3.1242732066063908e-06,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 2.092575636238095,
+    "S": 20.3166258138516,
+    "fap": 0.03341680584703154,
+    "search": "orbit",
+    "related": [
+     2.086967438597711,
+     "side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 2.0855095548004474,
+    "S": 44.86136644509666,
+    "fap": 1.3887404315535074e-09,
+    "search": "orbit",
+    "related": [
+     2.086967438597711,
+     "near"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 2.0873935079374264,
+    "S": 2371.9191124195104,
+    "fap": 0.0,
+    "search": "orbit",
+    "related": [
+     2.086967438597711,
+     "near"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 2.285884977769117,
+    "S": 2.735937879991492,
+    "fap": 1.0,
+    "search": "daily",
+    "related": [
+     2.086967438597711,
+     "1-day alias of P/3"
+    ],
+    "instrumental": "",
+    "both": false
+   },
+   {
+    "P": 2.0725139867396143,
+    "S": 28.864625471214293,
+    "fap": 9.08030064449139e-05,
+    "search": "orbit",
+    "related": [
+     2.086967438597711,
+     "2f1-f2 with f2 = 1/2.1016 d"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 2.0983371231046966,
+    "S": 26.05697005878189,
+    "fap": 0.0006355802516924635,
+    "search": "orbit",
+    "related": [
+     2.086967438597711,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 2.079773221119981,
+    "S": 25.171928048537772,
+    "fap": 0.0011734854172517168,
+    "search": "orbit",
+    "related": [
+     2.086967438597711,
+     "side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   }
+  ]
+ },
+ "V850 Cen": {
+  "qualified_default": 0,
+  "qualified_enlarged": 0,
+  "adopted_unchanged": true,
+  "candidates_default": 4,
+  "candidates_enlarged": 7,
+  "candidates": [
+   {
+    "P": 132.4209539604139,
+    "S": 87.32563845851092,
+    "fap": 1.7751079398711467e-23,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": false
+   },
+   {
+    "P": 0.4929181080850544,
+    "S": 6.697067618302474,
+    "fap": 1.0,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1/2 day: probably instrumental",
+    "both": false
+   },
+   {
+    "P": 44.116460074949565,
+    "S": 22.114780085984375,
+    "fap": 0.0007576779487600673,
+    "search": "daily",
+    "related": [
+     132.4209539604139,
+     "P/3"
+    ],
+    "instrumental": "",
+    "both": false
+   },
+   {
+    "P": 0.9788197018355833,
+    "S": 24.19064268947686,
+    "fap": 0.0023153982768584383,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.9720584599155457,
+    "S": 23.87754090650527,
+    "fap": 0.0028757874630229636,
+    "search": "orbit",
+    "related": [
+     0.4929181080850544,
+     "1-day alias of P"
+    ],
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 1.00071794324291,
+    "S": 23.83567553221332,
+    "fap": 0.0029603367428024017,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 0.993368262389071,
+    "S": 23.050721554626637,
+    "fap": 0.005095310483353504,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "within 3% of 1 day: probably instrumental",
+    "both": false
+   }
+  ]
+ },
+ "V884 Sco": {
+  "qualified_default": 1,
+  "qualified_enlarged": 3,
+  "adopted_unchanged": true,
+  "candidates_default": 3,
+  "candidates_enlarged": 12,
+  "candidates": [
+   {
+    "P": 3.4116487554245567,
+    "S": 2489.922207281483,
+    "fap": 0.0,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 1.1372102316125878,
+    "S": 334.63931882200956,
+    "fap": 8.141921695638264e-97,
+    "search": "orbit",
+    "related": [
+     3.4116487554245567,
+     "P/3"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 2.417464384649491,
+    "S": 4.0700659377180886,
+    "fap": 1.0,
+    "search": "daily",
+    "related": [
+     3.4116487554245567,
+     "1-day alias of P/2"
+    ],
+    "instrumental": "",
+    "both": false
+   },
+   {
+    "P": 3.3490391941991664,
+    "S": 130.94565793540895,
+    "fap": 1.6928901370003195e-35,
+    "search": "orbit",
+    "related": [
+     3.4116487554245567,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 3.4765499618934643,
+    "S": 113.68737448885183,
+    "fap": 2.653931846028375e-30,
+    "search": "orbit",
+    "related": [
+     3.4116487554245567,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 3.44379597415598,
+    "S": 69.6071698768727,
+    "fap": 4.93575471471111e-17,
+    "search": "orbit",
+    "related": [
+     3.4116487554245567,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.6823268869272388,
+    "S": 46.04488702469935,
+    "fap": 6.113747154924174e-10,
+    "search": "orbit",
+    "related": [
+     3.4116487554245567,
+     "P/5"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.4873780254304047,
+    "S": 43.14653003005386,
+    "fap": 4.558268113174532e-09,
+    "search": "orbit",
+    "related": [
+     3.4116487554245567,
+     "P/7"
+    ],
+    "instrumental": "within 3% of 1/2 day: probably instrumental",
+    "both": true
+   },
+   {
+    "P": 3.3800990662596213,
+    "S": 38.083139450904355,
+    "fap": 1.5241660312761229e-07,
+    "search": "orbit",
+    "related": [
+     3.4116487554245567,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.31014842664293146,
+    "S": 31.61240552482401,
+    "fap": 1.3518060376550766e-05,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 3.318507366621596,
+    "S": 23.455125997356397,
+    "fap": 0.003851814825413083,
+    "search": "orbit",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 3.5104681627028684,
+    "S": 23.357358701138583,
+    "fap": 0.004121331709063176,
+    "search": "orbit",
+    "related": [
+     3.4116487554245567,
+     "2f1-f2 with f2 = 1/3.3185 d"
+    ],
+    "instrumental": "",
+    "both": false
+   }
+  ]
+ },
+ "XTE J1855-026": {
+  "qualified_default": 1,
+  "qualified_enlarged": 1,
+  "adopted_unchanged": true,
+  "candidates_default": 3,
+  "candidates_enlarged": 5,
+  "candidates": [
+   {
+    "P": 6.07417752130349,
+    "S": 1113.350445719593,
+    "fap": 0.0,
+    "search": "daily",
+    "related": null,
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 2.024723323130454,
+    "S": 130.42072090637345,
+    "fap": 2.435713481464324e-35,
+    "search": "orbit",
+    "related": [
+     6.07417752130349,
+     "P/3"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 0.8677351877856971,
+    "S": 37.71726032244604,
+    "fap": 1.9640317078927644e-07,
+    "search": "orbit",
+    "related": [
+     6.07417752130349,
+     "P/7"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 5.877544747698385,
+    "S": 24.92549414084923,
+    "fap": 0.00010798070237364706,
+    "search": "daily",
+    "related": [
+     6.07417752130349,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   },
+   {
+    "P": 6.283582712822585,
+    "S": 20.189855820685224,
+    "fap": 0.0028728594081319637,
+    "search": "daily",
+    "related": [
+     6.07417752130349,
+     "1-yr side-lobe"
+    ],
+    "instrumental": "",
+    "both": true
+   }
+  ]
+ },
+ "_totals": {
+  "sources": 19,
+  "candidates_default": 63,
+  "candidates_enlarged": 189,
+  "qualified_default": 20,
+  "qualified_enlarged": 44,
+  "adopted_unchanged": 19
+ }
+}

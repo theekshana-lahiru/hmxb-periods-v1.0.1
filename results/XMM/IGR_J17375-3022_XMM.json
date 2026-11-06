@@ -1,0 +1,13 @@
+{
+ "name": "IGR J17375-3022",
+ "ra": 264.39208,
+ "dec": -30.38806,
+ "n_lightcurves": 14,
+ "observations": [],
+ "known_spin": null,
+ "band": "total",
+ "notes": [
+  "no XMM pipeline light curve of the target found (searched 14 files within 15.0\")"
+ ],
+ "best": null
+}

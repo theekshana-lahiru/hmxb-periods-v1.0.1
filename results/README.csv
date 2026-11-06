@@ -1,0 +1,14 @@
+Item,Meaning
+General,"Made by build_results_sheet.py (bat_period_pipeline.py, xmm_spin_pipeline.py, hmxb_common.py)."
+Periods,P and sigma_P are unrounded fit values; the 'rounded' columns give P rounded to the decimal place of its 1-sigma error (error with 2 significant digits).
+Strength S,"BAT: Lomb-Scargle power divided by the local red-noise level (running median, +/-0.15 dex). Single-trial false-alarm probability p = 2^-S. The blind 1% threshold depends on the number of independent frequencies (about 18 for daily light curves, 22 for orbit light curves); checking a known period needs only S >= 6.6."
+FAP,Global false-alarm probability (all trials). For BAT detections below S = 30 it is calibrated with 200 simulated red-noise light curves where noted ('fap_sim').
+Orbital method,"Light curve used (daily for P > 5 d, orbit-resolution below), weighted Lomb-Scargle (semi-weighting: intrinsic scatter added to the errors) and the number of harmonics in the final fit. 'targeted' = the literature period was confirmed although no blind peak passed the blind threshold."
+Halves consistent,The period measured separately in the first and second half of the data agrees within 3 sigma.
+Outburst timing,"Be transients: Gaussian fit to each outburst peak, straight-line ephemeris T_n = T0 + n P; independent of the periodogram."
+New vs literature,"same = within 3 sigma or one frequency resolution element (P^2/T); 2 x, 1/2 x, 3 x, 1/3 x = harmonic relations; 1-day alias = 1/(1 - 1/P)."
+Spin (XMM),"PPS source light curves (PN preferred; timing-mode light curves are used when present), binned to >= 0.25 s (a whole number of pipeline bins). Power spectrum at the independent Fourier frequencies, normalised by the local mean power (Israel & Stella 1996), harmonic sums of 1-4 harmonics, FAP for all trials. Each observation is also searched in 10 ks segments (trials multiplied by the number of segments + 1), which recovers fast pulsars whose period is Doppler-smeared by the orbit (e.g. Cen X-3)."
+Fundamental check (spin),A peak can be a harmonic (P/h) or sub-harmonic (k P) of the spin. The power at j/(kP) (j not a multiple of k) decides whether the profile repeats after P; harmonics and sub-harmonics of a stronger detection are marked 'related_to' in the Peaks sheet and are not adopted.
+Pulsed fraction,(max - min) / (max + min) of the folded profile (16 bins).
+Literature check (spin),"Targeted search within +/- 1/T (or 3 sigma of the literature error) of the catalogue spin, trials = number of frequencies in that window x harmonics."
+Not detected,"No significant periodicity does not mean the period is absent: the source may be too faint, the observation too short, or the period outside the searched range (2 bins to T/4 for XMM; 1/T to 0.5 c/d (daily) or 0.2-6 c/d (orbit) for BAT)."

@@ -1,0 +1,98 @@
+{
+ "flow": {
+  "sources": 102,
+  "searches": 204,
+  "sources_with_peaks_above_threshold": 51,
+  "peaks_above_threshold": 236,
+  "sources_only_failing_simulations": 1,
+  "peaks_failing_simulations": 1,
+  "sources_with_candidates": 50,
+  "candidates": 114,
+  "candidates_related": 39,
+  "candidates_instrumental": 19,
+  "sources_instrumental": 8,
+  "candidates_not_both_halves": 7,
+  "sources_not_both_halves": 7,
+  "candidates_qualified": 49,
+  "sources_qualified": 40,
+  "blind_adopted": 40,
+  "blind_adopted_not_both_halves": 1,
+  "blind_rejected": 1,
+  "blind_retained": 39,
+  "qualified_not_orbital": 10,
+  "targeted": 16,
+  "catalogue_periods": 90,
+  "catalogue_not_testable": 1,
+  "catalogue_not_recovered": 34,
+  "no_catalogue_period": 12,
+  "no_catalogue_with_peaks": 0
+ },
+ "by_class": [
+  {
+   "cls": "Be",
+   "N": 47,
+   "no_cat": 4,
+   "cat": 43,
+   "blind_retained": 13,
+   "targeted": 7,
+   "not_recovered": 23,
+   "not_testable": 0,
+   "blind_rejected": 0
+  },
+  {
+   "cls": "sg",
+   "N": 21,
+   "no_cat": 1,
+   "cat": 20,
+   "blind_retained": 17,
+   "targeted": 3,
+   "not_recovered": 0,
+   "not_testable": 0,
+   "blind_rejected": 0
+  },
+  {
+   "cls": "SFXT",
+   "N": 15,
+   "no_cat": 2,
+   "cat": 13,
+   "blind_retained": 6,
+   "targeted": 4,
+   "not_recovered": 3,
+   "not_testable": 0,
+   "blind_rejected": 0
+  },
+  {
+   "cls": "gamma",
+   "N": 6,
+   "no_cat": 0,
+   "cat": 6,
+   "blind_retained": 1,
+   "targeted": 1,
+   "not_recovered": 3,
+   "not_testable": 1,
+   "blind_rejected": 1
+  },
+  {
+   "cls": "other",
+   "N": 4,
+   "no_cat": 0,
+   "cat": 4,
+   "blind_retained": 2,
+   "targeted": 1,
+   "not_recovered": 1,
+   "not_testable": 0,
+   "blind_rejected": 0
+  },
+  {
+   "cls": "unclassified",
+   "N": 9,
+   "no_cat": 5,
+   "cat": 4,
+   "blind_retained": 0,
+   "targeted": 0,
+   "not_recovered": 4,
+   "not_testable": 0,
+   "blind_rejected": 0
+  }
+ ]
+}

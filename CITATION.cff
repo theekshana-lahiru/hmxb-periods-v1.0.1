@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper and this archived version."
+title: "hmxb-periods: homogeneous orbital and spin period analysis of high-mass X-ray binaries (Swift/BAT, XMM-Newton)"
+version: 1.0.1
+date-released: 2026-11-02
+license: MIT
+authors:
+  - family-names: Piyadasa
+    given-names: Theekshana
+    affiliation: "Arthur C Clarke Institute for Modern Technologies, Sri Lanka"
+# After the first release on Zenodo, add the version DOI here, for example:
+# doi: 10.5281/zenodo.NNNNNNN
+# and the repository URL, for example:
+# repository-code: "https://github.com/<user>/hmxb-periods"
+keywords:
+  - X-ray binaries
+  - periodogram
+  - Swift/BAT
+  - XMM-Newton
+  - timing analysis
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Piyadasa
+      given-names: Theekshana
+  title: "Orbital and spin periods of 102 high-mass X-ray binaries from Swift/BAT and XMM-Newton: a homogeneous re-analysis"
+  journal: "Astronomische Nachrichten"
+  year: 2026
+  notes: "submitted"
