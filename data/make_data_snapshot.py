@@ -1,5 +1,4 @@
-"""Copy the exact input files used for the paper into one zip archive for long-term storage
-(for example as a Zenodo data record next to the code record).
+"""Copy the exact input files used for the paper into one zip archive for long-term storage (for example as a Zenodo data record next to the code record).
 
     python data/make_data_snapshot.py [path-to-data-folder] [output.zip]
 
